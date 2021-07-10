@@ -47,16 +47,16 @@ getUpdate(){
         foodTitle: "Poke with chicken",
         foodCal: "345 kcal",
         foodImage: AppImage.dessert,
-        foodPrice: "\$3.24"),
+        foodPrice: "\$3"),
     FoodModel(
         foodTitle: "Salad with radishes and Mushrooms",
         foodCal: "375 kcal",
         foodImage: AppImage.salad,
-        foodPrice: "\$3.40"),
+        foodPrice: "\$3"),
     FoodModel(
         foodTitle: "Two slices of pizza with extra sauce",
         foodCal: "400 kcal",
         foodImage: AppImage.pizza,
-        foodPrice: "\$4.35"),
+        foodPrice: "\$4"),
   ];
 }
