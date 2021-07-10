@@ -3,15 +3,18 @@
 #Introduction
 It’s an assignment task in this i have create food app design and maintain local states.
 
-#Technologies * Dart language
+#Technologies
+* Dart language
 *Android Studio
 
-#Launch This project need any of the following IDE tools to run
+#Launch
+This project need any of the following IDE tools to run
 * Visual Studio Code
 * Android Studio
 * Intellij
 
-# Project Status I have completed following tasks:-
+# Project Status
+I have completed following tasks:-
 * Home screen: 
 *   Horizontal list of food items 
 *  List of food items 
