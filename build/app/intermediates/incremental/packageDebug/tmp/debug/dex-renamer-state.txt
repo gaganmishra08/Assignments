@@ -1,0 +1,4 @@
+#Sat Jul 10 23:20:48 IST 2021
+base.0=/Users/gagandeepmishra/Desktop/Assignment/Assignments/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
